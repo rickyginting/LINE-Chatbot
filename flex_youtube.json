@@ -1,0 +1,43 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Kunjungi Link Berikut ini"
+      },
+      {
+        "type": "image",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRhOwjztIAAXmQnbebvMV7SZ8GguDNK8yzv8GXAdcsTJEBJ0Vgw&usqp=CAU",
+        "margin": "none",
+        "position": "relative",
+        "align": "center",
+        "gravity": "center",
+        "size": "full",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "http://youtube.com"
+        }
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "Kunjungi",
+          "uri": "http://youtube.com/"
+        },
+        "style": "primary"
+      }
+    ]
+  }
+}

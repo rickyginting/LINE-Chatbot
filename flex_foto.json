@@ -1,0 +1,77 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiQAs8yEhT5TNf357YHqofhe9Wqr_5vxOYfzrB1GFlCvNm-MfJ&usqp=CAU",
+            "position": "relative",
+            "margin": "none",
+            "align": "center",
+            "gravity": "center",
+            "size": "full"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://obs.line-scdn.net/0hQ61AzVuxDhkMOCbZlnFxTjZuDXY_VB0aaA5fB1xWUC11WE9HNl4VLCBrAiwpXUlHYgpJfi0_FShyXEscZF8V/w644",
+            "position": "relative",
+            "margin": "none",
+            "align": "center",
+            "gravity": "center",
+            "size": "full"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTthourbN_7knkVb9yDC9otV8AoXsj_ogKQ9kN5qDnJWchlPHEJ&usqp=CAU",
+            "position": "relative",
+            "margin": "none",
+            "align": "center",
+            "gravity": "center",
+            "size": "full"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://obs.line-scdn.net/0hGsTufTBTGFxpDDCc80RnC1NaGzNaYAtfDTpJQjliRmgQbFkCU2oAaUUEFW9Db18CBz5fO0sJA20XaF1ZAWsA/w644",
+            "position": "relative",
+            "margin": "none",
+            "align": "center",
+            "gravity": "center",
+            "size": "full"
+          }
+        ]
+      }
+    }
+  ]
+}

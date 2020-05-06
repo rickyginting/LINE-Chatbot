@@ -1,0 +1,43 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Kunjungi Link Berikut ini"
+      },
+      {
+        "type": "image",
+        "url": "https://lh3.googleusercontent.com/_KPc9mv9-8g872UxnkhwLM0cSz_zNhnM3VFPDDqiql35sxa0E-OCc3ZcBQbZApZKP8Q",
+        "margin": "none",
+        "position": "relative",
+        "align": "center",
+        "gravity": "center",
+        "size": "full",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "http://fb.com"
+        }
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "Kunjungi",
+          "uri": "http://fb.com/"
+        },
+        "style": "primary"
+      }
+    ]
+  }
+}

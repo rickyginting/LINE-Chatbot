@@ -1,0 +1,144 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Melihat Chanel Youtube"
+          },
+          {
+            "type": "image",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRhOwjztIAAXmQnbebvMV7SZ8GguDNK8yzv8GXAdcsTJEBJ0Vgw&usqp=CAU",
+            "margin": "none",
+            "align": "center",
+            "gravity": "center",
+            "size": "full",
+            "aspectMode": "fit",
+            "action": {
+              "type": "message",
+              "label": "action",
+              "text": "youtube"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "Youtube",
+              "text": "youtube"
+            },
+            "style": "primary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Melihat Facebook"
+          },
+          {
+            "type": "image",
+            "url": "https://lh3.googleusercontent.com/_KPc9mv9-8g872UxnkhwLM0cSz_zNhnM3VFPDDqiql35sxa0E-OCc3ZcBQbZApZKP8Q",
+            "margin": "none",
+            "align": "center",
+            "gravity": "center",
+            "size": "full",
+            "aspectMode": "fit",
+            "action": {
+              "type": "message",
+              "label": "action",
+              "text": "facebook"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "Facebook",
+              "text": "facebook"
+            },
+            "style": "primary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Melihat Foto"
+          },
+          {
+            "type": "image",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSiQAs8yEhT5TNf357YHqofhe9Wqr_5vxOYfzrB1GFlCvNm-MfJ&usqp=CAU",
+            "margin": "none",
+            "align": "center",
+            "gravity": "center",
+            "size": "full",
+            "aspectMode": "fit",
+            "action": {
+              "type": "message",
+              "label": "foto",
+              "text": "foto"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "Foto",
+              "text": "foto"
+            },
+            "style": "primary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "kamu juga bisa upload file ke cloud"
+          },
+          {
+            "type": "image",
+            "url": "https://miro.medium.com/max/1200/1*kg8aAUNxI055OhNhT04srQ.png",
+            "margin": "none",
+            "align": "center",
+            "gravity": "center",
+            "size": "full",
+            "aspectMode": "fit",
+            "action": {
+              "type": "message",
+              "label": "foto",
+              "text": "foto"
+            }
+          },
+          {
+            "type": "text",
+            "text": "Kirim sebuah file dan Remmar akan bagikan link download file kamu"
+          }
+        ]
+      }
+    }
+  ]
+}

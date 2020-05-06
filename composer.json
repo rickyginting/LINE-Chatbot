@@ -1,0 +1,23 @@
+{
+    "name": "wiocode/line-bot",
+    "description": "Bot Dengan PHP",
+    "type": "project",
+    "require": {
+        "php": "^7.2",
+        "slim/slim": "^4.5",
+        "linecorp/line-bot-sdk": "^4.3",
+        "slim/psr7": "^1.0",
+        "nyholm/psr7": "^1.2",
+        "nyholm/psr7-server": "^0.4.1",
+        "guzzlehttp/psr7": "^1.6",
+        "http-interop/http-factory-guzzle": "^1.0",
+        "laminas/laminas-diactoros": "^2.3"
+    },
+    "authors": [
+        {
+            "name": "Ricky Martin Ginting",
+            "email": "ricky@wiocode.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
